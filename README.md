@@ -16,3 +16,6 @@ La mayoría de los estudiantes se encuentra en edades donde combinan estudio y t
 
 Conclusión:
 El análisis permite identificar factores clave que pueden utilizarse para diseñar estrategias de retención escolar y sistemas de alerta temprana.
+
+Visualización:
+Se desarrolló tres dashboard en Power BI para visualizar los principales indicadores de deserción y permanencia.
