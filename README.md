@@ -21,6 +21,6 @@ Visualización:
 Se desarrolló tres dashboard en Power BI para visualizar los principales indicadores de deserción y permanencia.
 ## 📊 Visualizaciones
 
-![Deserción](link_imagen)
+![Deserción](https://github.com/andreajurado-data/analisis-desercion-escolar/blob/main/Motivo%20de%20deserci%C3%B3n.png?raw=true)
 ![Motivos](link_imagen)
 ![Edades](link_imagen)
