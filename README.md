@@ -23,4 +23,4 @@ Se desarrolló tres dashboard en Power BI para visualizar los principales indica
 
 ![Deserción](https://github.com/andreajurado-data/analisis-desercion-escolar/blob/main/Motivo%20de%20deserci%C3%B3n.png?raw=true)
 ![Motivos]([link_imagen](https://github.com/andreajurado-data/analisis-desercion-escolar/blob/main/Distribuci%C3%B3n%20de%20edades.png?raw=true))
-![Edades](link_imagen)
+![Edades]([link_imagen](https://github.com/andreajurado-data/analisis-desercion-escolar/blob/main/Motivo%20para%20continuar%20estudiando.png?raw=true))
