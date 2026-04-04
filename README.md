@@ -1,4 +1,4 @@
-Análisis de Deserción Escolar
+Análisis de Deserción Escolar: 
 Este proyecto analiza los factores asociados a la deserción escolar utilizando herramientas de análisis de datos en Python.
 
 Objetivo:
