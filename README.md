@@ -21,5 +21,6 @@ Visualización:
 Se desarrolló tres dashboard en Power BI para visualizar los principales indicadores de deserción y permanencia.
 ## 📊 Visualizaciones
 
+![Año escolar de abandono](https://github.com/andreajurado-data/analisis-desercion-escolar/blob/main/A%C3%B1o%20escolar%20de%20abandono.png?raw=true)
 ![Última escuela común](https://github.com/andreajurado-data/analisis-desercion-escolar/blob/main/%C3%9Altima%20escuela%20com%C3%BAn.png?raw=true)
 ![Actualmente](https://github.com/andreajurado-data/analisis-desercion-escolar/blob/main/Actualmente.png?raw=true)
