@@ -19,3 +19,8 @@ El análisis permite identificar factores clave que pueden utilizarse para dise�
 
 Visualización:
 Se desarrolló tres dashboard en Power BI para visualizar los principales indicadores de deserción y permanencia.
+## 📊 Visualizaciones
+
+![Deserción](link_imagen)
+![Motivos](link_imagen)
+![Edades](link_imagen)
